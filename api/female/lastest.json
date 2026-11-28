@@ -1,12 +1,12 @@
 {
-  "date": "2026-11-27",
-  "prev_date": "2026-11-26",
+  "date": "2026-11-28",
+  "prev_date": "2026-11-27",
   "types": [
     {
       "type": "all",
       "url": "api/female/lastest/all.json",
       "category_count": 18,
-      "book_count": 350
+      "book_count": 360
     },
     {
       "type": "古风世情",
@@ -41,7 +41,7 @@
     {
       "type": "年代",
       "url": "api/female/lastest/%E5%B9%B4%E4%BB%A3.json",
-      "book_count": 10
+      "book_count": 20
     },
     {
       "type": "现言脑洞",
